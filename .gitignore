@@ -5,3 +5,5 @@ __pycache__/
 binary_cache/
 logs/
 target/
+build/
+dist/
